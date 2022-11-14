@@ -35,4 +35,4 @@ COPY *.sh /
 ENTRYPOINT ["/entrypoint.sh"]
 
 LABEL maintainer = "Jay Zhang <wangyoucao577@gmail.com>"
-LABEL org.opencontainers.image.source = "https://github.com/wangyoucao577/go-release-action"
+LABEL org.opencontainers.image.source = "https://github.com/fupengl/go-release-action"
